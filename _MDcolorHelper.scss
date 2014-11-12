@@ -30,8 +30,6 @@ $MDpalettes: (
     }
   } @else {
     @error
-      "[MDcolor]Error: Specified palette does not exist!
-       Palettes list: #{$MDpalettes-list}
-       (Google design guidelines - Color: http://www.google.com/design/spec/style/color.html)";
+      "[MDcolor]Error: Specified palette does not exist! \a Palettes list: #{$MDpalettes-list} \a (Google design guidelines - Color: http://www.google.com/design/spec/style/color.html)";
   }
 }
