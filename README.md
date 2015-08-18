@@ -33,3 +33,6 @@ Material Design color helper for scss
 
 ## Reference ##
 *   [Google design guidelines - Color](http://www.google.com/design/spec/style/color.html#color-ui-color-palette "Google design guidelines - Color")
+
+## License
+MIT
