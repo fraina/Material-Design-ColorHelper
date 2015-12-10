@@ -1,8 +1,9 @@
 Material-Design-ColorHelper
 ===========================
 
-[![npm](https://img.shields.io/npm/v/scss-mdcolor-helper.svg?style=flat)](https://www.npmjs.com/package/scss-mdcolor-helper)
 [![npm](https://img.shields.io/npm/l/express.svg?style=flat)](https://opensource.org/licenses/MIT)
+[![npm](https://img.shields.io/npm/v/scss-mdcolor-helper.svg?style=flat)](https://www.npmjs.com/package/scss-mdcolor-helper)
+[![Bower](https://img.shields.io/bower/v/scss-mdcolor-helper.svg)](https://github.com/Fraina/Material-Design-ColorHelper)
 
 Material Design color helper for scss
 
@@ -15,7 +16,9 @@ $ npm install scss-mdcolor-helper
 
 install via bower:
 
-TODO
+```
+$ bower install scss-mdcolor-helper
+```
 
 ## Usage ##
 
