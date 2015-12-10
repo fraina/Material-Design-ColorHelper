@@ -1,0 +1,21 @@
+{
+  "name": "scss-mdcolor-helper",
+  "version": "1.0.0",
+  "description": "Material Design color helper for scss.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fraina/Material-Design-ColorHelper.git"
+  },
+  "keywords": [
+    "scss",
+    "color",
+    "material desing",
+    "color palette"
+  ],
+  "author": "Fraina <jscaem@gmail.com> (http://github.com/Fraina)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fraina/Material-Design-ColorHelper/issues"
+  },
+  "homepage": "https://github.com/Fraina/Material-Design-ColorHelper"
+}
