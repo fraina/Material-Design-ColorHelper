@@ -26,10 +26,9 @@ $MDpalettes: (
     @if (map-has-key(map-get($MDpalettes, $palette), $tone)) {
       @return map-get(map-get($MDpalettes, $palette), $tone);
     } @else {
-      @error "[MDcolor]Error: Specified tone does not exist!";
+      @error "[MDcolor]Error: Specified palette `#{$tone}` does not exist!";
     }
   } @else {
-    @error
-      "[MDcolor]Error: Specified palette does not exist! \a Palettes list: #{$MDpalettes-list} \a (Google design guidelines - Color: http://www.google.com/design/spec/style/color.html)";
+    @error "[MDcolor]Error: Specified palette `#{$palette}` does not exist!";
   }
 }
