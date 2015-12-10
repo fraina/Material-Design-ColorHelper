@@ -1,13 +1,30 @@
 Material-Design-ColorHelper
 ===========================
 
+[![npm](https://img.shields.io/npm/v/scss-mdcolor-helper.svg?style=flat)](https://www.npmjs.com/package/scss-mdcolor-helper)
+[![npm](https://img.shields.io/npm/l/express.svg?style=flat)](https://opensource.org/licenses/MIT)
+
 Material Design color helper for scss
+
+## install ##
+
+install via npm:
+```
+$ npm install scss-mdcolor-helper
+```
+
+install via bower:
+
+TODO
 
 ## Usage ##
 
 ```
-	color: MDcolor(red)
-	background-color: MDcolor(red, A200)
+// MDcolor($palette, $tone)
+.className {
+  color: MDcolor(red)
+  background-color: MDcolor(red, A200)
+}
 ```
 
 ## Palettes ##
